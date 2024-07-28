@@ -77,12 +77,17 @@
     margin-bottom: 5rem;
     width: 100vw;
   }
+  .serv-body {
+    padding-left: 3rem;
+  }
   /* .heroh {
     display: flex;
     align-items: center;
     font-size: 3rem;
   } */
-
+  .About {
+    padding-left: 7rem;
+  }
   .about-flx {
     grid-template-columns: 1fr;
     margin-top: 20rem;
